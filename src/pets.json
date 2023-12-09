@@ -1,0 +1,168 @@
+{
+    "pets": [
+     {
+         "id": 1,
+         "name": "Bruno",
+         "Category": "Dog",
+         "image":"https://thelabradorclub.com/wp-content/uploads/2023/08/purpose-lrc-image-1.webp",
+         "breed": "Labrador",
+         "age": "4 months",
+         "price": "6k INR",
+         "gender": "male"
+         
+     },
+     {
+         "id": 2,
+         "name": "Luffy",
+         "Category": "Dog",
+         "image": "https://media1.popsugar-assets.com/files/thumbor/mUZ977RMh-0DQOFr-DzqhzfMfQY=/0x159:2003x2162/2011x2514/filters:format_auto():quality(85):extract_cover()/2019/08/07/875/n/24155406/9ffb00255d4b2e079b0b23.01360060_.jpg",
+         "breed": "German shepherd",
+         "age": "6 months",
+         "price": "12k INR",
+         "gender": "male"
+ 
+       },
+       {
+         "id": 3,
+         "name": "Lucy",
+         "Category": "Cat",
+         "image": "https://cdn.shopify.com/s/files/1/1199/8502/files/persian-doll-face.jpg",
+         "breed": "Persian Cat",
+         "age": "2 months",
+         "price": "14k INR",
+         "gender": "female"
+ 
+       },
+       {
+         "id": 4,
+         "name": "Maxi",
+         "Category": "Dog",
+         "image": "https://static.javatpoint.com/gk/images/dog-breeds-in-india3.jpg",
+         "breed": "Indian",
+         "age": "4 months",
+         "price": "7k INR",
+         "gender": "female"
+       },
+       {
+         "id": 5,
+         "name": "Bunny",
+         "Category": "Rabbit",
+         "image": "https://www.thesprucepets.com/thmb/VYDopMBfK6m_aCTAgiShehlZChE=/2048x0/filters:no_upscale():strip_icc()/Mini_rex_bunny-0bc79db3d2d54b53a9fc18e54e479883.jpeg",
+         "breed": "Rex Rabbit",
+         "age": "3 months",
+         "price": "5k INR",
+         "gender": "male"
+       },
+       {
+         "id": 6,
+         "name": "Fury",
+         "Category": "Rabbit",
+         "image": "https://cdn-fastly.petguide.com/media/2022/02/16/8261000/mini-rex-rabbit.jpg?size=720x845&nocrop=1",
+         "breed": "Rex Rabbit",
+         "age": "3 month",
+         "price": "5k INR",
+         "gender": "female"
+       },
+       {
+         "id": 7,
+         "name": "Bob",
+         "Category": "Fish",
+         "image": "https://finnkart.in/wp-content/uploads/2019/04/lg_39507_Fantail_Goldfish_Red.jpg",
+         "breed": "Fantail Goldfish",
+         "age": "4 weeks",
+         "price": "1k INR",
+         "gender": "female"
+       },
+       {
+         "id": 8,
+         "name": "Floater",
+         "Category": "Fish",
+         "image": "https://www.everythingfishkeeping.com/wp-content/uploads/2022/06/Fantail-Goldfish.jpg",
+         "breed": "Fantail Goldfish",
+         "age": "3 weeks",
+         "price": "1k INR",
+         "gender": "male"
+       },
+       {
+         "id": 9,
+         "name": "Blacky",
+         "Category": "Fish",
+         "image": "https://www.aquariadise.com/wp-content/uploads/2021/02/Bala-Shark.jpg",
+         "breed": "Bala Shark",
+         "age": "3 weeks",
+         "price": "1k INR",
+         "gender": "female"
+       },
+       {
+         "id": 10,
+         "name": "Clovey",
+         "Category": "Parrot",
+         "image": "https://thumbs.dreamstime.com/z/blue-yellow-macaw-parrot-ara-ararauna-also-known-as-gold-bali-indonesia-close-up-111533278.jpg",
+         "breed": "ara",
+         "age": "4 weeks",
+         "price": "1k INR",
+         "gender": "male"
+       },
+       {
+         "id": 11,
+         "name": "Coffee",
+         "Category": "Parrot",
+         "image": "https://i.ebayimg.com/images/g/VcgAAOSwk1RkJVsd/s-l1200.webp",
+         "breed": "ara",
+         "age": "4 weeks",
+         "price": "1k INR",
+         "gender": "female"
+       },
+       {
+         "id": 12,
+         "name": "Austin",
+         "Category": "Sparrow",
+         "image": "https://www.allaboutbirds.org/guide/assets/photo/305880301-480px.jpg",
+         "breed": "house-sparrows",
+         "age": "3 weeks",
+         "price": "500 INR",
+         "gender": "male"
+       },
+       {
+         "id": 13,
+         "name": "Happy",
+         "Category": "Sparrow",
+         "image": "https://www.allaboutbirds.org/guide/assets/photo/305874191-480px.jpg",
+         "breed": "house-sparrows",
+         "age": "3 weeks",
+         "price": "500 INR",
+         "gender": "female"
+       },
+       {
+         "id": 14,
+         "name": "Jelly",
+         "Category": "Owl",
+         "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/255114031/900",
+         "breed": "-",
+         "age": "2 months",
+         "price": "2k INR",
+         "gender": "female"
+       },
+       {
+         "id": 15,
+         "name": "Ashley",
+         "Category": "cat",
+         "image": "https://www.thesprucepets.com/thmb/5OSN_p9hUfPssKsJORQDGnAz_tQ=/1963x0/filters:no_upscale():strip_icc()/GettyImages-181861505-4e63227ed0a14dc9bfe86848ef54caf3.jpg",
+         "breed": "Persian Cat",
+         "age": "2 months",
+         "price": "14k INR",
+         "gender": "female"
+       },
+       {
+         "id": 16,
+         "name": "Bruzo",
+         "Category": "Dog",
+         "image": "https://www.akc.org/wp-content/uploads/2020/07/Golden-Retriever-puppy-standing-outdoors-500x486.jpg",
+         "breed": "Golden Retriever",
+         "age": "2 months",
+         "price": "16k INR",
+         "gender": "female"
+       }
+ 
+    ]
+ }
