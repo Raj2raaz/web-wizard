@@ -2,7 +2,7 @@ import React from "react";
 import PetsIcon from "@mui/icons-material/Pets";
 import { Button } from "@mui/material";
 import LogoutIcon from '@mui/icons-material/Logout';
-import Filter from "./Filter"; // Import the SearchBar component
+import Filter from "./Filter"; 
 import { Link, useLocation } from "react-router-dom";
 
 function Header({ user, handleLogout, showSearchBar }) {
