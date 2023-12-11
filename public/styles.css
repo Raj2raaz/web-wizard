@@ -63,5 +63,25 @@
     margin: 0;
     line-height: 2.5rem;
   }
+
+  .submit-popup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 40px;
+    color: #fff;
+    background: #4c00b4 ;
+    border-radius: 50px;
+    font-size: 19px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.container-popup{
+  margin-top: 22px;
+  display: flex;
+  justify-content: space-between;
+}
   
   
