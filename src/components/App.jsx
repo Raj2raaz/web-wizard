@@ -5,8 +5,9 @@ import Footer from "./Footer.jsx";
 import Home from "./Home.jsx";
 import Login from "./LoginSignup/Login.jsx";
 import Signup from "./LoginSignup/Signup.jsx";
-import Popup from "./Popup.jsx";
+// import Popup from "./Popup.jsx";
 import Filter from "./Filter.jsx";
+// import LoginPopup from "./LoginPopup.jsx";
 function App() {
   const [user, setUser] = useState(null);
 
@@ -24,6 +25,7 @@ function App() {
             <Login setUser={setUser} />
           </Route>
           <Route path="/Popup" component={Filter}/>
+          {/* <Route path="/LoginPopup" component={LoginPopup}/> */}
         </Switch>
         <Footer />
       </div>
@@ -32,3 +34,5 @@ function App() {
 }
 
 export default App;
+
+// this is app
